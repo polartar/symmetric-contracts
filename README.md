@@ -1,6 +1,6 @@
 # <img src="logo.svg" alt="Balancer" height="128px">
 
-# Cent V2
+# Symmetric V2
 
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://docs.balancer.fi/)
 [![CI Status](https://github.com/balancer-labs/balancer-v2-monorepo/workflows/CI/badge.svg)](https://github.com/balancer-labs/balancer-v2-monorepo/actions)
