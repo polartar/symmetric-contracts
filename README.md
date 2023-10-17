@@ -1,5 +1,3 @@
-# <img src="logo.svg" alt="Symmetric" height="128px">
-
 # Symmetric V2
 [![License](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
