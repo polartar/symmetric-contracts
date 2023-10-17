@@ -144,7 +144,7 @@ export class RelayerAuthorization {
     }
 
     const domain = {
-      name: 'Balancer V2 Vault',
+      name: 'Symmetric V2 Vault',
       version: '1',
       chainId,
       verifyingContract: validator.address,

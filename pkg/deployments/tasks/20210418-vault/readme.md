@@ -1,6 +1,6 @@
 # 2021-04-18 Vault
 
-Deployment of the Vault, Balancer V2's core contract.
+Deployment of the Vault, Symmetric V2's core contract.
 
 Note that the Authorizer used in the Vault's original deployment may change over time: the current Authorizer should be retrieved by calling `vault.getAuthorizer()` instead.
 

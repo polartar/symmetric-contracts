@@ -1,10 +1,10 @@
 # <img src="../../logo.svg" alt="Balancer" height="128px">
 
-# Balancer V2 Weighted Pools
+# Symmetric V2 Weighted Pools
 
 [![NPM Package](https://img.shields.io/npm/v/@balancer-labs/v2-pool-weighted.svg)](https://www.npmjs.org/package/@balancer-labs/v2-pool-weighted)
 
-This package contains the source code for Balancer V2 Weighted Pools, that is, Pools that swap tokens by enforcing a Constant Weighted Product invariant.
+This package contains the source code for Symmetric V2 Weighted Pools, that is, Pools that swap tokens by enforcing a Constant Weighted Product invariant.
 
 The two basic flavors currently in existence are [`WeightedPool`](./contracts/WeightedPool.sol) (basic twenty token version) and [`WeightedPool2Tokens`](./contracts/WeightedPool2Tokens.sol) (limited to two tokens, but supporting price oracles).
 

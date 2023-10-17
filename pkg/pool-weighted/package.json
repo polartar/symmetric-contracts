@@ -1,7 +1,7 @@
 {
   "name": "@balancer-labs/v2-pool-weighted",
   "version": "2.0.1",
-  "description": "Balancer V2 Weighted Pools",
+  "description": "Symmetric V2 Weighted Pools",
   "license": "GPL-3.0-only",
   "homepage": "https://github.com/balancer-labs/balancer-v2-monorepo/tree/master/pkg/pool-weighted#readme",
   "repository": {

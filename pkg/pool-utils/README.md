@@ -1,11 +1,11 @@
 # <img src="../../logo.svg" alt="Balancer" height="128px">
 
-# Balancer V2 Pool Utilities
+# Symmetric V2 Pool Utilities
 
 [![NPM Package](https://img.shields.io/npm/v/@balancer-labs/v2-pool-utils.svg)](https://www.npmjs.org/package/@balancer-labs/v2-pool-utils)
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://docs.balancer.fi/developers/smart-contracts/apis/pools)
 
-This package contains Solidity utilities for developing Balancer V2 Pools, implementing common patterns such as token decimal scaling, caller checks on hooks, etc.
+This package contains Solidity utilities for developing Symmetric V2 Pools, implementing common patterns such as token decimal scaling, caller checks on hooks, etc.
 
 The most useful contracts are [`BaseGeneralPool`](./contracts/BaseGeneralPool.sol) and [`BaseMinimalSwapInfoPool`](./contracts/BaseMinimalSwapInfoPool.sol), used as base contracts for Pools with the General and MinimalSwapInfo/TwoTokens specializations respectively.
 

@@ -1,11 +1,11 @@
 # <img src="../../logo.svg" alt="Balancer" height="128px">
 
-# Balancer V2 Vault
+# Symmetric V2 Vault
 
 [![NPM Package](https://img.shields.io/npm/v/@balancer-labs/v2-vault.svg)](https://www.npmjs.org/package/@balancer-labs/v2-vault)
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://docs.balancer.fi/developers/smart-contracts/apis/vault)
 
-This package contains the source code of Balancer V2's main contract, the [`Vault`](./contracts/Vault.sol), as well as all [core interfaces](./contracts/interfaces).
+This package contains the source code of Symmetric V2's main contract, the [`Vault`](./contracts/Vault.sol), as well as all [core interfaces](./contracts/interfaces).
 
 The [Vault interface](./contracts/interfaces/IVault.sol) itself is required for multiple tasks, including swaps, joins and exits, but some scenarios require functionality provided through other contracts. Particularly useful interfaces include:
 

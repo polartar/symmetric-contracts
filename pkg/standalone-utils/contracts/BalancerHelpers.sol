@@ -30,7 +30,7 @@ import "@balancer-labs/v2-vault/contracts/balances/BalanceAllocation.sol";
 import "@balancer-labs/v2-pool-utils/contracts/BasePool.sol";
 
 /**
- * @dev This contract simply builds on top of the Balancer V2 architecture to provide useful helpers to users.
+ * @dev This contract simply builds on top of the Symmetric V2 architecture to provide useful helpers to users.
  * It connects different functionalities of the protocol components to allow accessing information that would
  * have required a more cumbersome setup if we wanted to provide these already built-in.
  */

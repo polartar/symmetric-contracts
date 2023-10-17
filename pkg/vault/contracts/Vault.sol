@@ -24,7 +24,7 @@ import "./FlashLoans.sol";
 import "./Swaps.sol";
 
 /**
- * @dev The `Vault` is Balancer V2's core contract. A single instance of it exists for the entire network, and it is the
+ * @dev The `Vault` is Symmetric V2's core contract. A single instance of it exists for the entire network, and it is the
  * entity used to interact with Pools by Liquidity Providers who join and exit them, Traders who swap, and Asset
  * Managers who withdraw and deposit tokens.
  *

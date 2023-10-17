@@ -76,7 +76,7 @@ abstract contract VaultAuthorization is
     constructor(IAuthorizer authorizer)
         // The Vault is a singleton, so it simply uses its own address to disambiguate action identifiers.
         Authentication(bytes32(uint256(address(this))))
-        SignaturesValidator("Balancer V2 Vault")
+        SignaturesValidator("Symmetric V2 Vault")
     {
         _setAuthorizer(authorizer);
     }

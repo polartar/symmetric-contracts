@@ -1,7 +1,7 @@
 {
   "name": "@balancer-labs/v2-pool-utils",
   "version": "2.0.1",
-  "description": "Utilities for creating Balancer V2 Pools",
+  "description": "Utilities for creating Symmetric V2 Pools",
   "license": "GPL-3.0-only",
   "homepage": "https://github.com/balancer-labs/balancer-v2-monorepo/tree/master/pkg/pool-utils#readme",
   "repository": {

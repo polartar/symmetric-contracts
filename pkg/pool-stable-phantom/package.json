@@ -1,7 +1,7 @@
 {
   "name": "@balancer-labs/v2-pool-stable-phantom",
   "version": "0.1.0",
-  "description": "Balancer V2 Stable Phantom Pools",
+  "description": "Symmetric V2 Stable Phantom Pools",
   "license": "GPL-3.0-only",
   "homepage": "https://github.com/balancer-labs/balancer-v2-monorepo/tree/master/pkg/pool-stable-phantom#readme",
   "repository": {

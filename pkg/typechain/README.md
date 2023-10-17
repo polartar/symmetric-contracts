@@ -1,10 +1,10 @@
 # <img src="../../logo.svg" alt="Balancer" height="128px">
 
-# Balancer V2 TypeChain
+# Symmetric V2 TypeChain
 
 [![NPM Package](https://img.shields.io/npm/v/@balancer-labs/typechain.svg)](https://www.npmjs.org/package/@balancer-labs/typechain)
 
-This package contains generated TypeChain bindings for commonly used contracts in the Balancer V2 ecosystem.
+This package contains generated TypeChain bindings for commonly used contracts in the Symmetric V2 ecosystem.
 
 ## Overview
 
